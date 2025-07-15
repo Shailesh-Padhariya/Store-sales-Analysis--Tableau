@@ -8,8 +8,7 @@ This Tableau dashboard provides an in-depth analysis of store sales performance,
 
 Dataset
 
-Source: https://docs.google.com/spreadsheets/d/1nPbGfu5TNKZkPs3rrPJp2FWqPM3At5-k/edit?usp=drive_link&ouid=106909808790301394460&rtpof=true&sd=true
-
+Source: https://docs.google.com/spreadsheets/d/1hlVYQYEbaoh8FORg163SMRLz-5KDmZFe/edit?usp=sharing&ouid=115283539876278132351&rtpof=true&sd=true
 Key Features:
 
 Sales Performance by Time Period
